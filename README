@@ -1,0 +1,12 @@
+Spring Boot Admin Console
+=========================
+
+The above actuator end points provide a lot of insights about a Spring Boot application.
+But if you have many applications running, then monitoring each application by hitting the endpoints 
+and inspecting the JSON response is a tedious process.
+
+To avoid this hassle, we can use the Code Centric team  Spring Boot Admin module, which will provide us 
+an admin UI dashboard to administer Spring Boot applications. 
+
+This module crunches the data from Actuator endpoints and provides insights about all the registered 
+applications in a single dashboard.
