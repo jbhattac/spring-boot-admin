@@ -1,5 +1,5 @@
-Spring Boot Admin Console
-=========================
+## Spring Boot Admin Console
+
 
 The above actuator end points provide a lot of insights about a Spring Boot application.
 But if you have many applications running, then monitoring each application by hitting the endpoints 
